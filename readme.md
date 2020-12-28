@@ -1,7 +1,7 @@
 ## WietHUD install script for Linux
 ### Prerequisites:
 
-- new-ish (> 4) version of bash
+- new-ish (>= 4) version of bash
 - curl or wget
 - unzip
 
